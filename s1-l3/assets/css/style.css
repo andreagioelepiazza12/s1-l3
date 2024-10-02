@@ -1,0 +1,99 @@
+
+
+body {
+    text-align: center;
+    
+}
+
+
+.sec1 {
+    color: rgb(5, 94, 64);
+    border-top: 2px solid rgb(255, 222, 112);
+    background-color: rgb(251, 247, 228);
+    font-size: 14px;
+    
+    padding: 10px;
+}
+
+.gras {
+    font-weight: bold;
+}
+
+.p2 {
+    font-weight: bold;
+    font-size: 40px;
+}
+
+.p3 {
+            width: 78%; 
+            margin: 0 auto; 
+            text-align: left; 
+            padding: 20px;
+            font-weight: 700;
+}
+
+
+.cap{
+    text-align: center;
+}
+
+.img2{
+    border-radius: 5%;
+    
+}
+
+.figcap{
+    text-align: center;
+    color: rgb(107, 107, 107);
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.p4{
+    width: 75%; 
+    margin: 0 auto; 
+    text-align: left; 
+    padding: 20px;
+    color: rgb(187, 24, 24);
+    font-weight: 500;
+    border-left:2px solid rgb(172, 172, 44);
+}
+
+.line{
+    color: rgb(5, 94, 64);
+    text-decoration: underline;
+}
+
+
+
+.p5{
+    width: 70%; 
+    margin: 0 auto; 
+    text-align: left; 
+    padding: 30px;
+    border-bottom: 1px solid rgb(5, 94, 64);
+    width: 55%; 
+    font-size: 22px;
+}
+
+.p6{
+    width: 70%; 
+    margin: 0 auto; 
+    text-align: left; 
+    padding: 20px;
+     font-weight: 700;
+}
+
+.list{
+    width: 70%; 
+    margin: 0 auto; 
+    text-align: left; 
+    padding: 20px;
+}
+
+.list2{
+    width: 70%; 
+    margin: 0 auto; 
+    text-align: left; 
+    padding: 20px;
+}
